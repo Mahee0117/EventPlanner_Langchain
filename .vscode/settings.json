@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "/Users/mahee/Projects/Multiagentic_Event_Planner/.venv/bin/python",
+  "python.analysis.extraPaths": [
+    "/Users/mahee/Projects/Multiagentic_Event_Planner/.venv/lib/python3.13/site-packages"
+  ]
+}
+

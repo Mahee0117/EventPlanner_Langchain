@@ -115,7 +115,7 @@ multiagentic_event_planner/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/Multiagentic_Event_Planner.git
+git clone https://github.com/Mahee0117/Multiagentic_Event_Planner.git
 cd Multiagentic_Event_Planner
 ```
 

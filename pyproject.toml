@@ -1,0 +1,24 @@
+[project]
+name = "multiagentic-event-planner"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Mahee0117", email = "maheshmsk2006@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "langchain>=1.5.0",
+    "langchain-ollama>=1.1.0",
+    "langchain-tavily>=0.2.18",
+    "streamlit>=1.67.0",
+    "tavily-python>=0.8.5",
+]
+
+[project.scripts]
+multiagentic-event-planner = "multiagentic_event_planner:main"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"
